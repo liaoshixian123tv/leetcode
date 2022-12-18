@@ -1,4 +1,4 @@
-package q3longestsubstringwithoutrepeatingcharacters
+package question3
 
 /*
 Given a string s, find the length of the longest
